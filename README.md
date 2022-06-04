@@ -4,4 +4,4 @@
 
 ### Stats from bachelor-struggles:
 
-file:///media/kurush/My%20Passport/archive/bachelor/bachelor_stats/loc_by_sem.png![image](https://user-images.githubusercontent.com/45338359/171996807-162c39e3-1577-4c2a-a11a-2273066caa50.png)
+![image](https://user-images.githubusercontent.com/45338359/171996807-162c39e3-1577-4c2a-a11a-2273066caa50.png)
